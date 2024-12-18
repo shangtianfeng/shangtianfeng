@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 模型运行效率
 分子筛选运行时间
 ![分子筛选](https://github.com/user-attachments/assets/6fe79e06-98eb-43c2-9e4f-15345aff048e)
 分子生成运行时间
